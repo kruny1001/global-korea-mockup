@@ -1,0 +1,63 @@
+<svg width="375" height="812" viewBox="0 0 375 812" xmlns="http://www.w3.org/2000/svg">
+  <g id="signUp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <path fill="#FFF" d="M0 0h375v812H0z"/>
+    <text id="text" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="12" font-weight="normal" fill="#858593">
+            <tspan x="24" y="752">이미</tspan>
+            <tspan x="44.76" y="752" font-family="Roboto-Regular, Roboto"> </tspan>
+            <tspan x="47.731" y="752">가입하셨나요</tspan>
+            <tspan x="110.011" y="752" font-family="Roboto-Regular, Roboto">?</tspan>
+        </text>
+    <text id="contract" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="12" font-weight="normal" fill="#858593">
+            <tspan x="49" y="695">회원약관</tspan>
+            <tspan x="90.52" y="695" font-family="Roboto-Regular, Roboto"> </tspan>
+            <tspan x="93.491" y="695">동의</tspan>
+        </text>
+    <g id="kakao" transform="translate(24 606)">
+      <path d="M12 0h303c6.627 0 12 5.373 12 12v26c0 6.627-5.373 12-12 12H12C5.373 50 0 44.627 0 38V12C0 5.373 5.373 0 12 0Z" id="button/primary-(Background)" fill="#EEB43C"/>
+      <text id="카카오-간편-로그인" font-family="NanumGothicBold, Nanum Gothic" font-size="16" font-weight="bold" fill="#FFF">
+                <tspan x="98.86" y="29">카카오 간편 로그인</tspan>
+            </text>
+    </g>
+    <g id="google" transform="translate(23 546)">
+      <path d="M12 0h303c6.627 0 12 5.373 12 12v26c0 6.627-5.373 12-12 12H12C5.373 50 0 44.627 0 38V12C0 5.373 5.373 0 12 0Z" id="button/primary-(Background)" fill="#7F7F7F"/>
+      <text id="구글-간편-로그인" font-family="NanumGothicBold, Nanum Gothic" font-size="16" font-weight="bold" fill="#FFF">
+                <tspan x="106.38" y="29">구글 간편 로그인</tspan>
+            </text>
+    </g>
+    <g id="naver" transform="translate(24 486)">
+      <path d="M12 0h303c6.627 0 12 5.373 12 12v26c0 6.627-5.373 12-12 12H12C5.373 50 0 44.627 0 38V12C0 5.373 5.373 0 12 0Z" id="button/primary-(Background)" fill="#21AF02"/>
+      <text id="네이버-간편-로그인" font-family="NanumGothicBold, Nanum Gothic" font-size="16" font-weight="bold" fill="#FFF">
+                <tspan x="98.86" y="29">네이버 간편 로그인</tspan>
+            </text>
+    </g>
+    <g id="register" transform="translate(25 382)">
+      <rect id="Rectangle" fill="#3D5CFF" x="0" y="0" width="327" height="50" rx="12"/>
+      <text id="회원가입" font-family="NanumGothicBold, Nanum Gothic" font-size="16" font-weight="bold" fill="#FFF">
+                <tspan x="131.92" y="29">회원가입</tspan>
+            </text>
+    </g>
+    <g id="password" transform="translate(24 287)">
+      <path d="M0 0h327v72H0V0Z" id="bg" fill="#FFF"/>
+      <path d="M2.5 5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Zm9 0a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Zm9 0a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Zm9 0a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Zm9 0a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Zm9 0a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Zm9 0a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Zm9 0a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Zm9 0a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Zm9 0a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Zm9 0a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Zm9 0a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z" transform="translate(20 44)" fill="#1F1F39" id="Ellipse-15"/>
+      <rect id="Rectangle" stroke="#979797" x="0" y="22" width="327" height="50" rx="12"/>
+      <text id="title" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#858597">
+                <tspan x="0" y="14">Password</tspan>
+            </text>
+      <path d="m286.09 38.91 15 15a.833.833 0 0 1-1.18 1.18l-5.522-5.524a2.917 2.917 0 0 1-3.953-3.953l-5.524-5.524a.833.833 0 0 1 1.178-1.178Zm5.66 8.09a1.25 1.25 0 0 0 1.32 1.248l-1.318-1.318a1.279 1.279 0 0 0-.002.07Zm-.203-3.983a.833.833 0 0 1-.401-1.617 7.686 7.686 0 0 1 1.854-.233c2.591 0 4.863 1.397 6.424 2.691a18.038 18.038 0 0 1 2.387 2.402 10.345 10.345 0 0 1 .175.221l.01.014.003.004.002.002-.668.499.668.499-.002.002-.003.004-.01.014a6.167 6.167 0 0 1-.175.221 18.038 18.038 0 0 1-2.387 2.401.833.833 0 1 1-1.063-1.283A16.372 16.372 0 0 0 300.257 47a16.372 16.372 0 0 0-1.896-1.858c-1.455-1.206-3.35-2.309-5.36-2.309a6.02 6.02 0 0 0-1.454.184Zm10.454 4.482a.834.834 0 0 0 0-.997l-.668.498.668.499Zm-14.362-2.357A16.372 16.372 0 0 0 285.744 47a16.372 16.372 0 0 0 1.896 1.858c1.454 1.206 3.349 2.309 5.36 2.309.496 0 .985-.067 1.465-.187a.833.833 0 0 1 .404 1.617 7.69 7.69 0 0 1-1.869.236c-2.591 0-4.863-1.397-6.424-2.691a18.038 18.038 0 0 1-2.387-2.402 10.343 10.343 0 0 1-.175-.221l-.01-.014-.003-.004-.001-.002.667-.499-.668-.499.002-.002.003-.004.01-.014a6.202 6.202 0 0 1 .175-.221 18.038 18.038 0 0 1 2.387-2.401.833.833 0 0 1 1.063 1.283Zm-3.64 1.36a.834.834 0 0 0 0 .996l.668-.498-.668-.499Z" id="icon" fill="#1F1F39"/>
+    </g>
+    <g id="email" transform="translate(24 191)">
+      <path d="M0 0h327v72H0V0Z" id="Form/email-(Background)" fill="#FFF"/>
+      <rect id="Rectangle" stroke="#979797" fill="#FFF" x="0" y="22" width="327" height="50" rx="12"/>
+      <text font-family="Roboto-Regular, Roboto" font-size="14" fill="#1F1F39">
+                <tspan x="20" y="53">Cooper_Kristin@gmail.com</tspan>
+            </text>
+      <text id="title" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#858597">
+                <tspan x="0" y="14">Your  Email</tspan>
+            </text>
+    </g>
+    <text id="title" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="32" font-weight="normal" fill="#1F1F39">
+            <tspan x="24" y="108">회원가입</tspan>
+        </text>
+    <rect id="Rectangle" stroke="#979797" x="28" y="683" width="16" height="16" rx="3"/>
+  </g>
+</svg>

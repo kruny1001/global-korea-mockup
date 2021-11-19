@@ -1,0 +1,183 @@
+<svg width="375" height="812" viewBox="0 0 375 812" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <path id="path-1" d="M0 0h375v44H0z"/>
+    <path id="path-3" d="M0 0h54v21H0z"/>
+  </defs>
+  <g id="verifyPayment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <path fill="#FFF" d="M0 0h375v812H0z"/>
+    <path d="M0 0h375v812H0V0Z" id="Model" fill="#1F1F39" opacity=".6"/>
+    <g id="button/primary" transform="translate(20 618)">
+      <path d="M12 0h311c6.627 0 12 5.373 12 12v26c0 6.627-5.373 12-12 12H12C5.373 50 0 44.627 0 38V12C0 5.373 5.373 0 12 0Z" id="button/primary-(Background)" fill="#3D5CFF"/>
+      <g id="Frame-10" transform="translate(135 13)" fill="#FFF" font-family="Helvetica" font-size="16" font-weight="normal">
+        <text id="Button">
+                    <tspan x=".488" y="15">Pay Now</tspan>
+                </text>
+      </g>
+    </g>
+    <g id="Price" transform="translate(110.5 142)" fill="#1F1F39" font-family="NanumGothicBold, Nanum Gothic" font-size="36" font-weight="bold">
+      <text id="70,000원">
+                <tspan x=".086" y="33">70,000원</tspan>
+            </text>
+    </g>
+    <g id="navigation-bar/light" transform="translate(0 44)">
+      <path d="M0 0h375v44H0V0Z" id="navigation-bar/light-(Background)"/>
+      <path d="M0 0h375v44H0V0Z" id="bg"/>
+      <g id="icon/close" transform="translate(16 10)" fill="#1F1F39">
+        <path d="m7 5.586 5 5 5-5A1 1 0 1 1 18.414 7l-5 5 5 5A1 1 0 1 1 17 18.414l-5-5-5 5A1 1 0 1 1 5.586 17l5-5-5-5A1 1 0 1 1 7 5.586Z" id="Vector-(Stroke)"/>
+      </g>
+    </g>
+    <g id="status/light">
+      <mask id="mask-2" fill="#fff">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <g id="Status-Icons" mask="url(#mask-2)">
+        <g transform="translate(292 16)">
+          <g id="Network-Signal-/-Light">
+            <path d="M0 0h20v14H0V0Z" id="Network-Signal-/-Light-(Background)"/>
+            <path d="M13 4a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h1ZM8.5 6a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1ZM4 7.5a1 1 0 0 1 1 1V11a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V8.5a1 1 0 0 1 1-1h1Z" id="Path" fill="#D1D1D6"/>
+            <path d="M17.5 2a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h1Z" id="Empty-Bar" fill-opacity=".18" fill="#3C3C43"/>
+            <path d="M13 4a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h1ZM8.5 6a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1ZM4 7.5a1 1 0 0 1 1 1V11a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V8.5a1 1 0 0 1 1-1h1Z" id="Path" fill="#1F1F39"/>
+          </g>
+          <g id="WiFi-Signal-/-Light" transform="translate(24)">
+            <path d="M0 0h16v14H0V0Z" id="WiFi-Signal-/-Light-(Background)"/>
+            <path d="m9.941 9.428.222.13a.297.297 0 0 1 .06.466l-1.894 1.889a.298.298 0 0 1-.422 0l-1.881-1.877a.297.297 0 0 1 .058-.465l.219-.13a3.571 3.571 0 0 1 1.83-.501c.64 0 1.26.168 1.808.488Zm2.554-2.453.176.138c.14.11.153.318.026.443l-1.13 1.128a.299.299 0 0 1-.39.028l-.137-.102a4.858 4.858 0 0 0-2.907-.96c-1.06 0-2.08.34-2.923.971l-.138.104a.299.299 0 0 1-.39-.028L3.552 7.57a.297.297 0 0 1 .026-.443l.175-.138a7.04 7.04 0 0 1 4.38-1.52 7.04 7.04 0 0 1 4.362 1.506Z" id="Path" fill="#1F1F39" fill-rule="nonzero"/>
+            <path d="m14.983 4.523.163.14c.132.112.14.313.017.435l-1.127 1.124a.299.299 0 0 1-.402.018l-.14-.117A8.33 8.33 0 0 0 8.133 4.18a8.33 8.33 0 0 0-5.377 1.955l-.14.118a.299.299 0 0 1-.402-.017L1.087 5.112a.297.297 0 0 1 .017-.436l.162-.139A10.513 10.513 0 0 1 8.133 2c2.524 0 4.939.89 6.85 2.523Z" id="Path" fill="#1F1F39" fill-rule="nonzero"/>
+          </g>
+          <g id="Battery-/-Light" transform="translate(44)">
+            <path d="M0 0h25v14H0V0Z" id="Battery-/-Light-(Background)"/>
+            <path d="M25 6v2a1 1 0 0 1-1 1V5a1 1 0 0 1 1 1Z" id="Rectangle-23" fill-opacity=".6" fill="#3C3C43" fill-rule="nonzero"/>
+            <path d="M20 1a3 3 0 0 1 3 3v6a3 3 0 0 1-3 3H3a3 3 0 0 1-3-3V4a3 3 0 0 1 3-3h17ZM1 4v6a2 2 0 0 0 2 2h17a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H3a2 2 0 0 0-2 2Z" id="Rectangle-21-(Stroke)" fill-opacity=".6" fill="#3C3C43"/>
+            <path d="M3 3h17a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1Z" id="Rectangle-20" fill="#1F1F39"/>
+          </g>
+        </g>
+      </g>
+      <g id="Time-/-Light" mask="url(#mask-2)">
+        <g transform="translate(21 12)">
+          <mask id="mask-4" fill="#fff">
+            <use xlink:href="#path-3"/>
+          </mask>
+          <g id="9:41" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)">
+            <g transform="translate(11 3)">
+              <path d="M0 0h33v15H0V0Z" id="9:41-(Background)" fill="none"/>
+              <path d="M10.152 7.427c0-1.34-.256-2.468-.747-3.34C8.695 2.732 7.47 2 5.925 2 3.627 2 2 3.545 2 5.713 2 7.75 3.465 9.23 5.479 9.23c1.238 0 2.241-.579 2.74-1.582h.124c0 2.417-.916 3.86-2.461 3.86-.908 0-1.611-.498-1.853-1.297H2.146c.315 1.736 1.788 2.879 3.721 2.879 2.688 0 4.285-2.102 4.285-5.662ZM3.853 5.655c0-1.18.908-2.08 2.087-2.08 1.18 0 2.088.915 2.088 2.11 0 1.178-.886 2.043-2.095 2.043-1.216 0-2.08-.865-2.08-2.073Zm10.562 6.174c0-.666-.476-1.157-1.172-1.157-.689 0-1.172.49-1.172 1.157 0 .66.483 1.157 1.172 1.157.696 0 1.172-.498 1.172-1.157Zm0-5.486c0-.666-.476-1.157-1.172-1.157-.689 0-1.172.49-1.172 1.157 0 .66.483 1.15 1.172 1.15.696 0 1.172-.49 1.172-1.15Zm8.665 6.49v-1.97h1.428V9.265H23.08V2.264h-2.666c-1.868 2.812-3.355 5.163-4.307 6.914v1.684h5.164v1.97h1.809Zm-1.883-9.031h.103V9.31h-3.442V9.2a79.597 79.597 0 0 1 3.34-5.398Zm9.23 9.03V2.265h-1.883l-2.761 1.933v1.817l2.629-1.846h.125v8.665h1.89Z" id="9:41" fill="#1F1F39" fill-rule="evenodd"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Password" transform="translate(0 262)">
+      <path d="M375 30v520H0V30C0 13.431 13.431 0 30 0h315c16.569 0 30 13.431 30 30Z" id="BG" fill="#FFF" fill-rule="nonzero"/>
+      <g id="Frame-12">
+        <g transform="translate(32 200)">
+          <g id="Frame-11">
+            <path d="M0 0h80v48H0V0Z" id="Frame-11-(Background)" fill="#FFF"/>
+            <text id="1" font-family="Helvetica" font-size="24" font-weight="normal" letter-spacing="4.08" fill="#1F1F39">
+                            <tspan x="31.286" y="29">1</tspan>
+                        </text>
+          </g>
+          <g id="Frame-11" transform="translate(116)">
+            <path d="M0 0h80v48H0V0Z" id="Frame-11-(Background)" fill="#FFF"/>
+            <text id="1" font-family="Helvetica" font-size="24" font-weight="normal" letter-spacing="4.08" fill="#1F1F39">
+                            <tspan x="31.286" y="29">2</tspan>
+                        </text>
+          </g>
+          <g id="Frame-11" transform="translate(232)">
+            <path d="M0 0h80v48H0V0Z" id="Frame-11-(Background)" fill="#FFF"/>
+            <text id="1" font-family="Helvetica" font-size="24" font-weight="normal" letter-spacing="4.08" fill="#1F1F39">
+                            <tspan x="31.286" y="29">3</tspan>
+                        </text>
+          </g>
+        </g>
+        <g transform="translate(32 284)">
+          <g id="Frame-11">
+            <path d="M0 0h80v48H0V0Z" id="Frame-11-(Background)" fill="#FFF"/>
+            <text id="1" font-family="Helvetica" font-size="24" font-weight="normal" letter-spacing="4.08" fill="#1F1F39">
+                            <tspan x="31.286" y="29">4</tspan>
+                        </text>
+          </g>
+          <g id="Frame-11" transform="translate(116)">
+            <path d="M0 0h80v48H0V0Z" id="Frame-11-(Background)" fill="#FFF"/>
+            <text id="1" font-family="Helvetica" font-size="24" font-weight="normal" letter-spacing="4.08" fill="#1F1F39">
+                            <tspan x="31.286" y="29">5</tspan>
+                        </text>
+          </g>
+          <g id="Frame-11" transform="translate(232)">
+            <path d="M0 0h80v48H0V0Z" id="Frame-11-(Background)" fill="#FFF"/>
+            <text id="1" font-family="Helvetica" font-size="24" font-weight="normal" letter-spacing="4.08" fill="#1F1F39">
+                            <tspan x="31.286" y="29">6</tspan>
+                        </text>
+          </g>
+        </g>
+        <g transform="translate(32 368)">
+          <g id="Frame-11">
+            <path d="M0 0h80v48H0V0Z" id="Frame-11-(Background)" fill="#FFF"/>
+            <text id="1" font-family="Helvetica" font-size="24" font-weight="normal" letter-spacing="4.08" fill="#1F1F39">
+                            <tspan x="31.286" y="29">7</tspan>
+                        </text>
+          </g>
+          <g id="Frame-11" transform="translate(116)">
+            <path d="M0 0h80v48H0V0Z" id="Frame-11-(Background)" fill="#FFF"/>
+            <text id="1" font-family="Helvetica" font-size="24" font-weight="normal" letter-spacing="4.08" fill="#1F1F39">
+                            <tspan x="31.286" y="29">8</tspan>
+                        </text>
+          </g>
+          <g id="Frame-11" transform="translate(232)">
+            <path d="M0 0h80v48H0V0Z" id="Frame-11-(Background)" fill="#FFF"/>
+            <text id="1" font-family="Helvetica" font-size="24" font-weight="normal" letter-spacing="4.08" fill="#1F1F39">
+                            <tspan x="31.286" y="29">9</tspan>
+                        </text>
+          </g>
+        </g>
+        <g transform="translate(32 452)">
+          <g id="Frame-11">
+            <path d="M0 0h80v48H0V0Z" id="Frame-11-(Background)" fill="#FFF"/>
+          </g>
+          <g id="Frame-11" transform="translate(116)">
+            <path d="M0 0h80v48H0V0Z" id="Frame-11-(Background)" fill="#FFF"/>
+            <text id="1" font-family="Helvetica" font-size="24" font-weight="normal" letter-spacing="4.08" fill="#1F1F39">
+                            <tspan x="31.286" y="29">0</tspan>
+                        </text>
+          </g>
+          <g id="Frame-11" transform="translate(232)">
+            <path d="M0 0h80v48H0V0Z" id="Frame-11-(Background)" fill="#FFF"/>
+            <g id="icon/delete-one" transform="translate(28 12)" fill="#1F1F39">
+              <path d="M11.207 8.793 13 10.586l1.793-1.793a1 1 0 1 1 1.414 1.414L14.414 12l1.793 1.793a1 1 0 1 1-1.414 1.414L13 13.414l-1.793 1.793a1 1 0 1 1-1.414-1.414L11.586 12l-1.793-1.793a1 1 0 1 1 1.414-1.414ZM7 4.5h15a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H7a1 1 0 0 1-.793-.39l-5-6.5a1 1 0 0 1 0-1.22l5-6.5A1 1 0 0 1 7 4.5ZM3.262 12l4.23 5.5H21v-11H7.492L3.262 12Z" id="Union"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Component-2" transform="translate(23 111)">
+        <path d="M0 0h44v50H0V0Z" id="Component-2-(Background)" fill="#FFF"/>
+        <path d="M22 29a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z" id="Ellipse-51" fill="#1F1F39"/>
+      </g>
+      <g id="Component-3" transform="translate(80 111)">
+        <path d="M0 0h44v50H0V0Z" id="Component-3-(Background)" fill="#FFF"/>
+        <path d="M22 29a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z" id="Ellipse-51" fill="#1F1F39"/>
+      </g>
+      <g id="Component-4" transform="translate(137 111)">
+        <path d="M0 0h44v50H0V0Z" id="Component-4-(Background)" fill="#FFF"/>
+        <path d="M22 29a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z" id="Ellipse-51" fill="#1F1F39"/>
+      </g>
+      <g id="Component-5" transform="translate(194 111)">
+        <path d="M0 0h44v50H0V0Z" id="Component-5-(Background)" fill="#FFF"/>
+        <path d="M22 29a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z" id="Ellipse-51" fill="#1F1F39"/>
+      </g>
+      <g id="Component-6" transform="translate(251 111)">
+        <path d="M0 0h44v50H0V0Z" id="Component-6-(Background)" fill="#FFF"/>
+        <path d="M22 29a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z" id="Ellipse-51" fill="#1F1F39"/>
+      </g>
+      <g id="Component-7" transform="translate(308 111)">
+        <path d="M0 0h44v50H0V0Z" id="Component-7-(Background)" fill="#FFF"/>
+        <path d="M22 29a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z" id="Ellipse-51" fill="#1F1F39"/>
+      </g>
+      <g id="Text" transform="translate(112 27)" font-family="NanumGothic, Nanum Gothic" font-weight="normal">
+        <text id="결제-비밀번호를-입력해-주세요" font-size="12" fill="#858597">
+                    <tspan x=".14" y="53">결제 비밀번호를 입력해 주세요</tspan>
+                </text>
+        <text id="결제-인증번호" font-size="24" fill="#1F1F39">
+                    <tspan x="4.46" y="22">결제 인증번호</tspan>
+                </text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,107 @@
+<svg width="375" height="812" viewBox="0 0 375 812" xmlns="http://www.w3.org/2000/svg">
+  <g id="sms2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <path fill="#FFF" d="M0 0h375v812H0z"/>
+    <g id="Keyboard" transform="translate(61 468)" fill="#1F1F39">
+      <g id="Frame-12" font-family="Helvetica" font-size="24" font-weight="normal" letter-spacing="4.08">
+        <g id="Frame-11">
+          <text id="1">
+                        <tspan x=".286" y="23">1</tspan>
+                    </text>
+        </g>
+        <g id="Frame-11" transform="translate(116)">
+          <text id="1">
+                        <tspan x=".286" y="23">2</tspan>
+                    </text>
+        </g>
+        <g id="Frame-11" transform="translate(232)">
+          <text id="1">
+                        <tspan x=".286" y="23">3</tspan>
+                    </text>
+        </g>
+      </g>
+      <g id="Frame-12" transform="translate(0 84)" font-family="Helvetica" font-size="24" font-weight="normal" letter-spacing="4.08">
+        <g id="Frame-11">
+          <text id="1">
+                        <tspan x=".286" y="23">4</tspan>
+                    </text>
+        </g>
+        <g id="Frame-11" transform="translate(116)">
+          <text id="1">
+                        <tspan x=".286" y="23">5</tspan>
+                    </text>
+        </g>
+        <g id="Frame-11" transform="translate(232)">
+          <text id="1">
+                        <tspan x=".286" y="23">6</tspan>
+                    </text>
+        </g>
+      </g>
+      <g id="Frame-12" transform="translate(0 168)" font-family="Helvetica" font-size="24" font-weight="normal" letter-spacing="4.08">
+        <g id="Frame-11">
+          <text id="1">
+                        <tspan x=".286" y="23">7</tspan>
+                    </text>
+        </g>
+        <g id="Frame-11" transform="translate(116)">
+          <text id="1">
+                        <tspan x=".286" y="23">8</tspan>
+                    </text>
+        </g>
+        <g id="Frame-11" transform="translate(232)">
+          <text id="1">
+                        <tspan x=".286" y="23">9</tspan>
+                    </text>
+        </g>
+      </g>
+      <g id="Frame-12" transform="translate(3.5 252)">
+        <g id="Frame-11" transform="translate(112.5)" font-family="Helvetica" font-size="24" font-weight="normal" letter-spacing="4.08">
+          <text id="1">
+                        <tspan x=".286" y="23">0</tspan>
+                    </text>
+        </g>
+        <g id="icon/delete-one" transform="translate(225.5 6)">
+          <path d="M11.207 8.793 13 10.586l1.793-1.793a1 1 0 1 1 1.414 1.414L14.414 12l1.793 1.793a1 1 0 1 1-1.414 1.414L13 13.414l-1.793 1.793a1 1 0 1 1-1.414-1.414L11.586 12l-1.793-1.793a1 1 0 1 1 1.414-1.414ZM7 4.5h15a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1H7a1 1 0 0 1-.793-.39l-5-6.5a1 1 0 0 1 0-1.22l5-6.5A1 1 0 0 1 7 4.5ZM3.262 12l4.23 5.5H21v-11H7.492L3.262 12Z" id="Union"/>
+        </g>
+      </g>
+    </g>
+    <g id="verifyBtn" transform="translate(61 344)">
+      <path d="M12 0h229c6.627 0 12 5.373 12 12v26c0 6.627-5.373 12-12 12H12C5.373 50 0 44.627 0 38V12C0 5.373 5.373 0 12 0Z" id="button/primary-(Background)" fill="#3D5CFF"/>
+      <text id="문자인증-확인" font-family="NanumGothicBold, Nanum Gothic" font-size="16" font-weight="bold" fill="#FFF">
+                <tspan x="79.14" y="30">문자인증 확인</tspan>
+            </text>
+    </g>
+    <g id="code" transform="translate(61.5 153)" font-weight="normal">
+      <text id="text" font-family="NanumGothic, Nanum Gothic" font-size="14" fill="#858597">
+                <tspan x="43.885" y="144">코드를 받지 못하셨습니까?</tspan>
+            </text>
+      <text id="010-2333-5423으로-문자-발" font-family="NanumGothic, Nanum Gothic" font-size="18" fill="#858597">
+                <tspan x="2.666" y="17">010 2333 5423으로 문자 발송 </tspan>
+            </text>
+      <text transform="translate(16 63)" fill="#1F1F39" font-family="Helvetica" font-size="22" id="3">
+                    <tspan x=".382" y="21">3</tspan>
+                </text>
+      <text transform="translate(85 63)" fill="#1F1F39" font-family="Helvetica" font-size="22" id="3">
+                    <tspan x=".382" y="21">1</tspan>
+                </text>
+      <text transform="translate(154.5 63)" fill="#1F1F39" font-family="Helvetica" font-size="22" id="3">
+                    <tspan x=".382" y="21">7</tspan>
+                </text>
+      <text transform="translate(223.5 63)" fill="#1F1F39" font-family="Helvetica" font-size="22" id="3">
+                    <tspan x=".382" y="21">0</tspan>
+                </text>
+    </g>
+    <g id="navi" transform="translate(154 55)" fill="#1F1F39" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="18" font-weight="normal">
+      <g id="navigation-bar/light">
+        <text id="문자-인증">
+                    <tspan x="0" y="17.774">문자</tspan>
+                    <tspan x="15" y="16" font-family="Helvetica"> </tspan>
+                    <tspan x="36.141" y="17.774">인증</tspan>
+                </text>
+      </g>
+    </g>
+    <g id="closeBtn" transform="translate(13 51)">
+      <rect id="Rectangle" fill="#FFF" x="0" y="0" width="30" height="30" rx="1"/>
+      <path d="m10 8.586 5 5 5-5A1 1 0 1 1 21.414 10l-5 5 5 5A1 1 0 1 1 20 21.414l-5-5-5 5A1 1 0 1 1 8.586 20l5-5-5-5A1 1 0 1 1 10 8.586Z" id="Vector-(Stroke)" fill="#1F1F39"/>
+    </g>
+  </g>
+</svg>

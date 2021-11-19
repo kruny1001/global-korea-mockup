@@ -1,0 +1,31 @@
+<svg width="375" height="812" viewBox="0 0 375 812" xmlns="http://www.w3.org/2000/svg">
+  <g id="paymentConfirmation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <path fill="#FFF" d="M0 0h375v812H0z"/>
+    <g id="startBtn" transform="translate(20 407)">
+      <path d="M12 0h311c6.627 0 12 5.373 12 12v26c0 6.627-5.373 12-12 12H12C5.373 50 0 44.627 0 38V12C0 5.373 5.373 0 12 0Z" id="button/primary-(Background)" fill="#3D5CFF"/>
+      <text id="대화-시작" font-family="NanumGothicBold, Nanum Gothic" font-size="16" font-weight="bold" fill="#FFF">
+                <tspan x="135.18" y="31">대화 시작</tspan>
+            </text>
+    </g>
+    <g id="Text" transform="translate(57 355)" fill="#1F1F39" font-family="NanumGothic, Nanum Gothic" font-size="16" font-weight="normal">
+      <text id="결제가-성공적으로-마무리-되었습니다!">
+                <tspan x=".068" y="15">결제가 성공적으로 마무리 되었습니다!</tspan>
+            </text>
+    </g>
+    <g id="Frame-29" transform="translate(117.5 200)">
+      <path d="M0 0h140v140H0V0Z" id="Frame-29-(Background)"/>
+      <path d="M70 34.978c18.549 0 33.585 15.037 33.585 33.585 0 18.549-15.036 33.585-33.585 33.585S36.415 87.112 36.415 68.563c0-18.548 15.036-33.585 33.585-33.585Z" id="Rectangle-84" fill="#3D5CFF"/>
+      <path d="m55.256 68.85 9.695 9.695 19.793-19.793" id="Vector-7" stroke="#FFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"/>
+      <path d="M104.097 107.24c1.83.201 5.732 2.29 7.27 4.599 1.54 2.309 2.415 6.305 2.543 8.1" id="Vector-11" stroke="#BAE0DB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"/>
+      <path d="M30.979 84.343c-2.117 2.437-7.658 6.811-12.892 4.81-6.542-2.501-6.35-6.35-4.233-7.889 2.116-1.539 5.003.963 5.58 3.079.577 2.117-.385 9.236-5.58 11.93-5.195 2.694-12.122 1.347-13.854 0" id="Vector-10" stroke="#EFE0FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"/>
+      <path d="M114.391 16.228c-2.501-.32-7.735 1.154-8.659 9.62-.923 8.467-8.338 10.199-11.93 10.006" id="Vector-9" stroke="#3D5CFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0"/>
+      <path d="M20.107 55.726a4.618 4.618 0 1 0 0-9.235 4.618 4.618 0 0 0 0 9.235Z" id="Ellipse-77" fill="#F99A3D"/>
+      <path d="M48.032 18.73a3.848 3.848 0 1 0 0-7.697 3.848 3.848 0 0 0 0 7.696Z" id="Ellipse-78" fill="#FFE7EE"/>
+      <path d="M59.77 24.476a2.296 2.296 0 1 0 0-4.592 2.296 2.296 0 0 0 0 4.592Z" id="Ellipse-79" fill="#FFE7EE"/>
+      <path d="M121.125 69.896a4.137 4.137 0 1 0 0-8.274 4.137 4.137 0 0 0 0 8.274Z" id="Ellipse-80" fill="#EFE0FF"/>
+      <path d="M35.116 116.845a4.137 4.137 0 1 0 0-8.274 4.137 4.137 0 0 0 0 8.274Z" id="Ellipse-81" fill="#FFE7EE"/>
+      <path d="M86.683 128.967a4.137 4.137 0 1 0 0-8.273 4.137 4.137 0 0 0 0 8.273Z" id="Ellipse-82" fill="#F9D2DD"/>
+      <path d="M73.887 122.99a2.296 2.296 0 1 0 0-4.593 2.296 2.296 0 0 0 0 4.593Z" id="Ellipse-83" fill="#3D5CFF"/>
+    </g>
+  </g>
+</svg>

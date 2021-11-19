@@ -1,0 +1,277 @@
+<svg width="375" height="812" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <path id="path-1" d="M0 0h375v44H0z"/>
+    <path id="path-3" d="M0 0h54v21H0z"/>
+  </defs>
+  <g id="onGoingChat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <path fill="#FFF" d="M0 0h375v812H0z"/>
+    <g id="status/light">
+      <mask id="mask-2" fill="#fff">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <g id="Status-Icons" mask="url(#mask-2)">
+        <g transform="translate(292 16)">
+          <g id="Network-Signal-/-Light">
+            <path d="M0 0h20v14H0V0Z" id="Network-Signal-/-Light-(Background)"/>
+            <path d="M13 4a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h1ZM8.5 6a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1ZM4 7.5a1 1 0 0 1 1 1V11a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V8.5a1 1 0 0 1 1-1h1Z" id="Path" fill="#D1D1D6"/>
+            <path d="M17.5 2a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h1Z" id="Empty-Bar" fill-opacity=".18" fill="#3C3C43"/>
+            <path d="M13 4a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h1ZM8.5 6a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1ZM4 7.5a1 1 0 0 1 1 1V11a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V8.5a1 1 0 0 1 1-1h1Z" id="Path" fill="#1F1F39"/>
+          </g>
+          <g id="WiFi-Signal-/-Light" transform="translate(24)">
+            <path d="M0 0h16v14H0V0Z" id="WiFi-Signal-/-Light-(Background)"/>
+            <path d="m9.941 9.428.222.13a.297.297 0 0 1 .06.466l-1.894 1.889a.298.298 0 0 1-.422 0l-1.881-1.877a.297.297 0 0 1 .058-.465l.219-.13a3.571 3.571 0 0 1 1.83-.502c.64 0 1.26.168 1.808.489Zm2.554-2.453.176.138c.14.11.153.318.026.443l-1.13 1.128a.299.299 0 0 1-.39.028l-.137-.102a4.858 4.858 0 0 0-2.907-.96c-1.06 0-2.08.34-2.923.971l-.138.103a.299.299 0 0 1-.39-.027L3.552 7.57a.297.297 0 0 1 .026-.443l.175-.138a7.04 7.04 0 0 1 4.38-1.52 7.04 7.04 0 0 1 4.362 1.506Z" id="Path" fill="#1F1F39" fill-rule="nonzero"/>
+            <path d="m14.983 4.523.163.14c.132.112.14.313.017.435l-1.127 1.124a.299.299 0 0 1-.402.018l-.14-.117A8.33 8.33 0 0 0 8.133 4.18a8.33 8.33 0 0 0-5.377 1.955l-.14.118a.299.299 0 0 1-.402-.017L1.087 5.112a.297.297 0 0 1 .017-.436l.162-.139A10.513 10.513 0 0 1 8.133 2c2.524 0 4.939.89 6.85 2.523Z" id="Path" fill="#1F1F39" fill-rule="nonzero"/>
+          </g>
+          <g id="Battery-/-Light" transform="translate(44)">
+            <path d="M0 0h25v14H0V0Z" id="Battery-/-Light-(Background)"/>
+            <path d="M25 6v2a1 1 0 0 1-1 1V5a1 1 0 0 1 1 1Z" id="Rectangle-23" fill-opacity=".6" fill="#3C3C43" fill-rule="nonzero"/>
+            <path d="M20 1a3 3 0 0 1 3 3v6a3 3 0 0 1-3 3H3a3 3 0 0 1-3-3V4a3 3 0 0 1 3-3h17ZM1 4v6a2 2 0 0 0 2 2h17a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H3a2 2 0 0 0-2 2Z" id="Rectangle-21-(Stroke)" fill-opacity=".6" fill="#3C3C43"/>
+            <path d="M3 3h17a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1Z" id="Rectangle-20" fill="#1F1F39"/>
+          </g>
+        </g>
+      </g>
+      <g id="Time-/-Light" mask="url(#mask-2)">
+        <g transform="translate(21 12)">
+          <mask id="mask-4" fill="#fff">
+            <use xlink:href="#path-3"/>
+          </mask>
+          <g id="9:41" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)">
+            <g transform="translate(11 3)">
+              <path d="M0 0h33v15H0V0Z" id="9:41-(Background)" fill="none"/>
+              <path d="M10.152 7.427c0-1.34-.256-2.468-.747-3.34C8.695 2.732 7.47 2 5.925 2 3.627 2 2 3.545 2 5.713 2 7.75 3.465 9.23 5.479 9.23c1.238 0 2.241-.579 2.74-1.582h.124c0 2.417-.916 3.86-2.461 3.86-.908 0-1.611-.498-1.853-1.297H2.146c.315 1.736 1.788 2.879 3.721 2.879 2.688 0 4.285-2.102 4.285-5.662ZM3.853 5.655c0-1.18.908-2.08 2.087-2.08 1.18 0 2.088.915 2.088 2.11 0 1.178-.886 2.043-2.095 2.043-1.216 0-2.08-.865-2.08-2.073Zm10.562 6.174c0-.666-.476-1.157-1.172-1.157-.689 0-1.172.49-1.172 1.157 0 .66.483 1.157 1.172 1.157.696 0 1.172-.498 1.172-1.157Zm0-5.486c0-.666-.476-1.157-1.172-1.157-.689 0-1.172.49-1.172 1.157 0 .66.483 1.15 1.172 1.15.696 0 1.172-.49 1.172-1.15Zm8.665 6.49v-1.97h1.428V9.265H23.08V2.264h-2.666c-1.868 2.812-3.355 5.163-4.307 6.914v1.684h5.164v1.97h1.809Zm-1.883-9.031h.103V9.31h-3.442V9.2a79.597 79.597 0 0 1 3.34-5.398Zm9.23 9.03V2.265h-1.883l-2.761 1.933v1.817l2.629-1.846h.125v8.665h1.89Z" id="9:41" fill="#1F1F39" fill-rule="evenodd"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="menu" transform="translate(5 60)">
+      <rect id="Rectangle" fill="#3D5CFF" x="0" y="0" width="110" height="32" rx="8"/>
+      <rect id="Rectangle-Copy" fill="#D8D8D8" x="125" y="0" width="110" height="32" rx="8"/>
+      <rect id="Rectangle-Copy-2" fill="#D8D8D8" x="251" y="0" width="110" height="32" rx="8"/>
+      <text id="1:1-대화방" font-family="Roboto" font-size="19" font-weight="bold" letter-spacing="-1.094" fill="#FFF">
+                <tspan x="22" y="23">1:1 대화방</tspan>
+            </text>
+      <text id="공유게시판" font-family="Roboto" font-size="19" font-weight="bold" letter-spacing="-1.094" fill="#FFF">
+                <tspan x="143" y="23">공유게시판</tspan>
+            </text>
+      <text id="화상채팅" font-family="Roboto" font-size="19" font-weight="bold" letter-spacing="-1.094" fill="#FFF">
+                <tspan x="278" y="23">화상채팅</tspan>
+            </text>
+    </g>
+    <g id="Group" transform="translate(-2 568)">
+      <path id="Background" fill="#FFF" d="M0 0h375v76H0z"/>
+      <g transform="translate(88 75)" fill="#000" fill-opacity=".12" id="Components-/-Dividers-/-Light">
+        <path id="Background" d="M0 .5h287v1H0z"/>
+      </g>
+      <text id="Date" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="12" font-weight="normal" fill="#000" fill-opacity=".5">
+                <tspan x="304" y="24">Caption 2</tspan>
+            </text>
+      <g id="icons" transform="translate(88 38)">
+        <rect id="Background" fill="#EEE" x="0" y="0" width="26" height="26" rx="8"/>
+        <g id="Icons-/-Media-/-play" transform="translate(4 4)" fill="#742DDD">
+          <path d="M14.6 9.774c.534-.347.532-.918.003-1.27L5.45 2.412c-.533-.354-.958-.11-.95.554l.147 12.062c.008.66.449.913.982.567l8.97-5.821Z" id="Color"/>
+        </g>
+      </g>
+      <text id="File-name" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="14" font-weight="normal" fill="#000" fill-opacity=".88">
+                <tspan x="118" y="57">Body 3.mp4</tspan>
+            </text>
+      <g transform="translate(16 10)">
+        <circle id="Avatar" fill="#BDBDBD" cx="28" cy="28" r="28"/>
+        <g transform="translate(12 12)" fill="#FFF" fill-opacity=".88" id="Icons-/-Contents-/-user">
+          <path d="M21.333 18.667c3.585 0 6.51 2.83 6.66 6.377l.007.29V28a1.333 1.333 0 0 1-2.658.155L25.333 28v-2.667a4 4 0 0 0-3.765-3.993l-.235-.007H10.667a4 4 0 0 0-3.994 3.765l-.006.235V28a1.333 1.333 0 0 1-2.658.155L4 28v-2.667a6.666 6.666 0 0 1 6.377-6.66l.29-.006h10.666ZM16 2.667A6.667 6.667 0 1 1 16 16a6.667 6.667 0 0 1 0-13.333Zm0 2.666a4 4 0 1 0 0 8 4 4 0 0 0 0-8Z" id="Combined-Shape"/>
+        </g>
+      </g>
+      <g id="Title" transform="translate(88 10)">
+        <path id="Background" d="M0 0h209v22H0z"/>
+        <text id="Name" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="16" font-weight="normal" letter-spacing="-.2" fill="#000" fill-opacity=".88">
+                    <tspan x="0" y="15">Subtitle 1</tspan>
+                </text>
+      </g>
+    </g>
+    <g id="Group" transform="translate(-2 492)">
+      <path id="Background" fill="#FFF" d="M0 0h375v76H0z"/>
+      <g transform="translate(88 75)" fill="#000" fill-opacity=".12" id="Components-/-Dividers-/-Light">
+        <path id="Background" d="M0 .5h287v1H0z"/>
+      </g>
+      <text id="Date" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="12" font-weight="normal" fill="#000" fill-opacity=".5">
+                <tspan x="304" y="24">Caption 2</tspan>
+            </text>
+      <g id="icons" transform="translate(88 38)">
+        <rect id="Background" fill="#EEE" x="0" y="0" width="26" height="26" rx="8"/>
+        <g id="Icons-/-Media-/-file-document" transform="translate(4 4)" fill="#742DDD">
+          <path d="M11.085 1.8c.182 0 .357.071.481.197l3.556 3.586a.606.606 0 0 1 .178.427v8.371c0 .996-1.221 1.819-2.25 1.819H4.545c-1.029 0-1.8-.823-1.8-1.819L2.7 3.619c0-.996.816-1.819 1.845-1.819Zm.937 9.893-6.044.007-.094.008a.6.6 0 0 0-.484.6c0 .335.259.607.578.607l6.044-.007.094-.008a.6.6 0 0 0 .484-.6.593.593 0 0 0-.578-.607Zm0-2.4L5.978 9.3l-.094.008a.6.6 0 0 0-.484.6c0 .335.259.607.578.607l6.044-.008.094-.007a.6.6 0 0 0 .484-.6.593.593 0 0 0-.578-.607ZM8.702 6.9h-2.7l-.098.008a.606.606 0 0 0-.504.6c0 .335.27.607.601.607h2.7l.098-.008a.606.606 0 0 0 .503-.6.604.604 0 0 0-.6-.607Z" id="Color"/>
+        </g>
+      </g>
+      <text id="File-name" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="14" font-weight="normal" fill="#000" fill-opacity=".88">
+                <tspan x="118" y="57">Body 3.pdf</tspan>
+            </text>
+      <g transform="translate(16 10)">
+        <circle id="Avatar" fill="#BDBDBD" cx="28" cy="28" r="28"/>
+        <g transform="translate(12 12)" fill="#FFF" fill-opacity=".88" id="Icons-/-Contents-/-user">
+          <path d="M21.333 18.667c3.585 0 6.51 2.83 6.66 6.377l.007.29V28a1.333 1.333 0 0 1-2.658.155L25.333 28v-2.667a4 4 0 0 0-3.765-3.993l-.235-.007H10.667a4 4 0 0 0-3.994 3.765l-.006.235V28a1.333 1.333 0 0 1-2.658.155L4 28v-2.667a6.666 6.666 0 0 1 6.377-6.66l.29-.006h10.666ZM16 2.667A6.667 6.667 0 1 1 16 16a6.667 6.667 0 0 1 0-13.333Zm0 2.666a4 4 0 1 0 0 8 4 4 0 0 0 0-8Z" id="Combined-Shape"/>
+        </g>
+      </g>
+      <g id="Title" transform="translate(88 10)">
+        <path id="Background" d="M0 0h209v22H0z"/>
+        <text id="Name" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="16" font-weight="normal" letter-spacing="-.2" fill="#000" fill-opacity=".88">
+                    <tspan x="0" y="15">Subtitle 1</tspan>
+                </text>
+      </g>
+    </g>
+    <g id="Group" transform="translate(-2 416)">
+      <path id="Background" fill="#FFF" d="M0 0h375v76H0z"/>
+      <g transform="translate(88 75)" fill="#000" fill-opacity=".12" id="Components-/-Dividers-/-Light">
+        <path id="Background" d="M0 .5h287v1H0z"/>
+      </g>
+      <text id="Date" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="12" font-weight="normal" fill="#000" fill-opacity=".5">
+                <tspan x="304" y="24">Caption 2</tspan>
+            </text>
+      <g id="icons" transform="translate(88 38)">
+        <rect id="Background" fill="#EEE" x="0" y="0" width="26" height="26" rx="8"/>
+        <g id="Icons-/-Media-/-photo" transform="translate(4 4)" fill="#742DDD">
+          <path d="M14.25 1.5a2.25 2.25 0 0 1 2.25 2.25v10.5a2.25 2.25 0 0 1-2.25 2.25H3.75a2.25 2.25 0 0 1-2.25-2.25V3.75A2.25 2.25 0 0 1 3.75 1.5ZM12 8.561 5.56 15h8.69a.75.75 0 0 0 .743-.648L15 14.25v-2.689l-3-3ZM14.25 3H3.75a.75.75 0 0 0-.75.75v10.5a.75.75 0 0 0 .487.702L11.47 6.97a.75.75 0 0 1 .99-.063l.07.063L15 9.439V3.75a.75.75 0 0 0-.648-.743L14.25 3ZM6.375 4.5a1.875 1.875 0 1 1 0 3.75 1.875 1.875 0 0 1 0-3.75Zm0 1.5a.375.375 0 1 0 0 .75.375.375 0 0 0 0-.75Z" id="Color"/>
+        </g>
+      </g>
+      <text id="File-name" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="14" font-weight="normal" fill="#000" fill-opacity=".88">
+                <tspan x="118" y="57">Body 3.png</tspan>
+            </text>
+      <g transform="translate(16 10)">
+        <circle id="Avatar" fill="#BDBDBD" cx="28" cy="28" r="28"/>
+        <g transform="translate(12 12)" fill="#FFF" fill-opacity=".88" id="Icons-/-Contents-/-user">
+          <path d="M21.333 18.667c3.585 0 6.51 2.83 6.66 6.377l.007.29V28a1.333 1.333 0 0 1-2.658.155L25.333 28v-2.667a4 4 0 0 0-3.765-3.993l-.235-.007H10.667a4 4 0 0 0-3.994 3.765l-.006.235V28a1.333 1.333 0 0 1-2.658.155L4 28v-2.667a6.666 6.666 0 0 1 6.377-6.66l.29-.006h10.666ZM16 2.667A6.667 6.667 0 1 1 16 16a6.667 6.667 0 0 1 0-13.333Zm0 2.666a4 4 0 1 0 0 8 4 4 0 0 0 0-8Z" id="Combined-Shape"/>
+        </g>
+      </g>
+      <g id="Title" transform="translate(88 10)">
+        <path id="Background" d="M0 0h209v22H0z"/>
+        <text id="Name" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="16" font-weight="normal" letter-spacing="-.2" fill="#000" fill-opacity=".88">
+                    <tspan x="0" y="15">Subtitle 1</tspan>
+                </text>
+      </g>
+    </g>
+    <g id="Group" transform="translate(-2 340)">
+      <path id="Background" fill="#FFF" d="M0 0h375v76H0z"/>
+      <g transform="translate(88 75)" fill="#000" fill-opacity=".12" id="Components-/-Dividers-/-Light">
+        <path id="Background" d="M0 .5h287v1H0z"/>
+      </g>
+      <text id="Message" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="14" font-weight="normal" fill="#000" fill-opacity=".38">
+                <tspan x="88" y="48">Body 3 Maecenas sed diam eget </tspan>
+                <tspan x="88" y="64">risus varius blandit sit amet non mag</tspan>
+            </text>
+      <g transform="translate(339 34)">
+        <path d="M0 10C0 4.477 4.476 0 10 0c5.523 0 10 4.476 10 10 0 5.523-4.476 10-10 10-5.523 0-10-4.476-10-10Z" id="Background" fill="#742DDD"/>
+        <text id="Counts" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="12" font-weight="normal" fill="#FFF" fill-opacity=".88">
+                    <tspan x="6" y="16">9</tspan>
+                </text>
+      </g>
+      <g transform="translate(16 10)">
+        <circle id="Avatar" fill="#BDBDBD" cx="28" cy="28" r="28"/>
+        <g transform="translate(12 12)" fill="#FFF" fill-opacity=".88" id="Icons-/-Contents-/-user">
+          <path d="M21.333 18.667c3.585 0 6.51 2.83 6.66 6.377l.007.29V28a1.333 1.333 0 0 1-2.658.155L25.333 28v-2.667a4 4 0 0 0-3.765-3.993l-.235-.007H10.667a4 4 0 0 0-3.994 3.765l-.006.235V28a1.333 1.333 0 0 1-2.658.155L4 28v-2.667a6.666 6.666 0 0 1 6.377-6.66l.29-.006h10.666ZM16 2.667A6.667 6.667 0 1 1 16 16a6.667 6.667 0 0 1 0-13.333Zm0 2.666a4 4 0 1 0 0 8 4 4 0 0 0 0-8Z" id="Combined-Shape"/>
+        </g>
+      </g>
+      <text id="Date" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="12" font-weight="normal" fill="#000" fill-opacity=".5">
+                <tspan x="304" y="24">Caption 2</tspan>
+            </text>
+      <g id="Title" transform="translate(88 10)">
+        <path id="Background" d="M0 0h209v22H0z"/>
+        <text id="Name" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="16" font-weight="normal" letter-spacing="-.2" fill="#000" fill-opacity=".88">
+                    <tspan x="0" y="15">Subtitle 1</tspan>
+                </text>
+        <text id="125-copy" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="12" font-weight="normal" fill="#000" fill-opacity=".5">
+                    <tspan x="75" y="17">125</tspan>
+                </text>
+        <g id="Group" transform="translate(101 3)" fill="#000" fill-opacity=".38">
+          <g id="Icons-/-Toggle-/-notifications-off-/-filled">
+            <path d="M9.153 13.333c.514 0 .835.557.577 1.002a2 2 0 0 1-3.46 0 .667.667 0 0 1 .501-.998l.076-.004h2.306ZM8 .667c1.793 0 3.38.885 4.346 2.242l1.422-1.422a.526.526 0 0 1 .672-.06l.073.06a.526.526 0 0 1 0 .745L2.232 14.512a.526.526 0 0 1-.672.061l-.073-.06a.526.526 0 0 1 0-.745L3.255 12H1.333l-.088-.005c-.771-.082-.771-1.241 0-1.324l.188-.008a1.334 1.334 0 0 0 1.23-1.225l.004-.105V6A5.333 5.333 0 0 1 8 .667Zm5.212 4.199c.068.313.109.637.119.968l.002.166v3.333c0 .703.544 1.28 1.234 1.33l.188.008c.741.08.77 1.154.086 1.31l-.086.014-.088.005h-8.59l7.135-7.134Z" id="Color"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group" transform="translate(-2 264)">
+      <path id="Background" fill="#FFF" d="M0 0h375v76H0z"/>
+      <g transform="translate(88 75)" fill="#000" fill-opacity=".12" id="Components-/-Dividers-/-Light">
+        <path id="Background" d="M0 .5h287v1H0z"/>
+      </g>
+      <text id="Message" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="14" font-weight="normal" fill="#000" fill-opacity=".38">
+                <tspan x="88" y="48">Body 3 Maecenas sed diam eget risus </tspan>
+                <tspan x="88" y="64">varius blandit sit amet non magna</tspan>
+            </text>
+      <text id="Date" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="12" font-weight="normal" fill="#000" fill-opacity=".5">
+                <tspan x="304" y="24">Caption 2</tspan>
+            </text>
+      <g transform="translate(16 10)">
+        <circle id="Avatar" fill="#BDBDBD" cx="28" cy="28" r="28"/>
+        <g transform="translate(12 12)" fill="#FFF" fill-opacity=".88" id="Icons-/-Contents-/-user">
+          <path d="M21.333 18.667c3.585 0 6.51 2.83 6.66 6.377l.007.29V28a1.333 1.333 0 0 1-2.658.155L25.333 28v-2.667a4 4 0 0 0-3.765-3.993l-.235-.007H10.667a4 4 0 0 0-3.994 3.765l-.006.235V28a1.333 1.333 0 0 1-2.658.155L4 28v-2.667a6.666 6.666 0 0 1 6.377-6.66l.29-.006h10.666ZM16 2.667A6.667 6.667 0 1 1 16 16a6.667 6.667 0 0 1 0-13.333Zm0 2.666a4 4 0 1 0 0 8 4 4 0 0 0 0-8Z" id="Combined-Shape"/>
+        </g>
+      </g>
+      <g id="Title" transform="translate(88 10)">
+        <path id="Background" d="M0 0h209v22H0z"/>
+        <text id="Name" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="16" font-weight="normal" letter-spacing="-.2" fill="#000" fill-opacity=".88">
+                    <tspan x="0" y="15">Subtitle 1</tspan>
+                </text>
+      </g>
+    </g>
+    <g id="Group" transform="translate(-2 188)">
+      <path id="Background" fill="#FFF" d="M0 0h375v76H0z"/>
+      <g transform="translate(88 75)" fill="#000" fill-opacity=".12" id="Components-/-Dividers-/-Light">
+        <path id="Background" d="M0 .5h287v1H0z"/>
+      </g>
+      <text id="Message" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="14" font-weight="normal" fill="#000" fill-opacity=".38">
+                <tspan x="88" y="48">Body 3 Maecenas sed diam eget risus </tspan>
+                <tspan x="88" y="64">varius blandit sit amet non magna</tspan>
+            </text>
+      <text id="Date" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="12" font-weight="normal" fill="#000" fill-opacity=".5">
+                <tspan x="304" y="24">Caption 2</tspan>
+            </text>
+      <g transform="translate(16 10)">
+        <circle id="Avatar" fill="#BDBDBD" cx="28" cy="28" r="28"/>
+        <g transform="translate(12 12)" fill="#FFF" fill-opacity=".88" id="Icons-/-Contents-/-user">
+          <path d="M21.333 18.667c3.585 0 6.51 2.83 6.66 6.377l.007.29V28a1.333 1.333 0 0 1-2.658.155L25.333 28v-2.667a4 4 0 0 0-3.765-3.993l-.235-.007H10.667a4 4 0 0 0-3.994 3.765l-.006.235V28a1.333 1.333 0 0 1-2.658.155L4 28v-2.667a6.666 6.666 0 0 1 6.377-6.66l.29-.006h10.666ZM16 2.667A6.667 6.667 0 1 1 16 16a6.667 6.667 0 0 1 0-13.333Zm0 2.666a4 4 0 1 0 0 8 4 4 0 0 0 0-8Z" id="Combined-Shape"/>
+        </g>
+      </g>
+      <g id="Title" transform="translate(88 10)">
+        <path id="Background" d="M0 0h209v22H0z"/>
+        <text id="Name" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="16" font-weight="normal" letter-spacing="-.2" fill="#000" fill-opacity=".88">
+                    <tspan x="0" y="15">Subtitle 1</tspan>
+                </text>
+      </g>
+    </g>
+    <g id="Group" transform="translate(-2 112)">
+      <path id="Background" fill="#FFF" d="M0 0h375v76H0z"/>
+      <g transform="translate(88 75)" fill="#000" fill-opacity=".12" id="Components-/-Dividers-/-Light">
+        <path id="Background" d="M0 .5h287v1H0z"/>
+      </g>
+      <text id="Message" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="14" font-weight="normal" fill="#000" fill-opacity=".38">
+                <tspan x="88" y="48">Body 3 Maecenas sed diam eget risus </tspan>
+                <tspan x="88" y="64">varius blandit sit amet non magna</tspan>
+            </text>
+      <text id="Date" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="12" font-weight="normal" fill="#000" fill-opacity=".5">
+                <tspan x="304" y="24">Caption 2</tspan>
+            </text>
+      <g transform="translate(16 10)">
+        <circle id="Oval" fill="#259C72" cx="28" cy="28" r="28"/>
+        <g transform="translate(12 12)" fill="#FFF" fill-opacity=".88" id="Icons-/-Contents-/-broadcast">
+          <path d="M29.273 3.603c.04.128.06.262.06.397v23.04a1.333 1.333 0 0 1-1.73 1.272l-8.976-2.804A5.334 5.334 0 0 1 8 24.853v-2.666H5.332a4 4 0 0 1-3.995-3.8l-.005-.2v-5.334a4 4 0 0 1 4-4H8l19.602-6.125a1.332 1.332 0 0 1 1.67.875ZM10.667 23.147v1.706a2.667 2.667 0 0 0 5.326.2l.007-.24-5.333-1.666Zm16-17.334-16 5v9.414l16 4.998V5.813ZM8 11.52H5.333c-.683 0-1.247.515-1.324 1.178L4 12.853v5.334c0 .736.597 1.333 1.333 1.333H8v-8Z" id="Color"/>
+        </g>
+      </g>
+      <g id="Title" transform="translate(88 10)">
+        <path id="Background" d="M0 0h209v22H0z"/>
+        <text id="Name" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="16" font-weight="normal" letter-spacing="-.2" fill="#000" fill-opacity=".88">
+                    <tspan x="20" y="15">Subtitle 1</tspan>
+                </text>
+        <text id="125-copy" font-family=".SFNS-Regular, .AppleSystemUIFont" font-size="12" font-weight="normal" fill="#000" fill-opacity=".5">
+                    <tspan x="95" y="17">125</tspan>
+                </text>
+        <g id="Group" transform="translate(121 3)" fill="#000" fill-opacity=".38">
+          <g id="Icons-/-Toggle-/-notifications-off-/-filled">
+            <path d="M9.153 13.333c.514 0 .835.557.577 1.002a2 2 0 0 1-3.46 0 .667.667 0 0 1 .501-.998l.076-.004h2.306ZM8 .667c1.793 0 3.38.885 4.346 2.242l1.422-1.422a.526.526 0 0 1 .672-.06l.073.06a.526.526 0 0 1 0 .745L2.232 14.512a.526.526 0 0 1-.672.061l-.073-.06a.526.526 0 0 1 0-.745L3.255 12H1.333l-.088-.005c-.771-.082-.771-1.241 0-1.324l.188-.008a1.334 1.334 0 0 0 1.23-1.225l.004-.105V6A5.333 5.333 0 0 1 8 .667Zm5.212 4.199c.068.313.109.637.119.968l.002.166v3.333c0 .703.544 1.28 1.234 1.33l.188.008c.741.08.77 1.154.086 1.31l-.086.014-.088.005h-8.59l7.135-7.134Z" id="Color"/>
+          </g>
+        </g>
+        <g id="Icons-/-Contents-/-broadcast" transform="translate(0 3)" fill="#259C72">
+          <path d="M14.636 1.801c.02.065.03.132.03.2V13.52a.667.667 0 0 1-.865.636l-4.488-1.402A2.667 2.667 0 0 1 4 12.427v-1.334H2.667a2 2 0 0 1-1.995-1.85l-.005-.15V6.427a2 2 0 0 1 2-2H4l9.801-3.063a.667.667 0 0 1 .835.437Zm-9.303 9.772v.854a1.333 1.333 0 0 0 2.663.1l.004-.12-2.667-.834Zm8-8.666-8 2.5v4.706l8 2.5V2.907ZM4 5.76H2.667a.667.667 0 0 0-.663.589L2 6.427v2.666c0 .369.298.667.667.667H4v-4Z" id="Color"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
